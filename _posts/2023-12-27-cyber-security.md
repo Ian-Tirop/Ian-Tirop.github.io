@@ -314,9 +314,15 @@ Honypot Bitches
 ## Conclusion.
 This post has explored various aspects of cybersecurity, including scanning activities, a case study on the SolarWinds breach, DDoS attacks, and the impact of digitalization. Stay tuned for more insights into the dynamic and evolving field of cybersecurity!
 
-References
-D. Dittrich, "Traceroute," The Tcpip Guide, 2023. [Online]. Available: https://www.tcpipguide.com/free/t_Traceroute.htm.
-ISC, "Introduction to Dig," Internet Systems Consortium, 2023. [Online]. Available: https://www.isc.org/using-dig/.
-Microsoft, "Nslookup," Microsoft Docs, 2023. [Online]. Available: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup.
-Temple-Raston, D. (2021). [Title of the SolarWinds Article]. Retrieved from [URL].
-Hutchins, E. M., Cloppert, M. J., & Amin, R. M. (2011). Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. Leading Issues in Information Warfare & Security Research, 1, 80–107.
+
+## References
+
+1. D. Dittrich, “Traceroute,” *The Tcpip Guide*, 2023. [Online]. Available: [Traceroute Guide](https://www.tcpipguide.com/free/t_Traceroute.htm).
+
+2. ISC, “Introduction to Dig,” *Internet Systems Consortium*, 2023. [Online]. Available: [Dig Introduction](https://www.isc.org/using-dig/).
+
+3. Microsoft, “Nslookup,” *Microsoft Docs*, 2023. [Online]. Available: [Nslookup Documentation](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup).
+
+4. Temple-Raston, D. (2021). [Title of the SolarWinds Article]. Retrieved from [URL].
+
+5. Hutchins, E. M., Cloppert, M. J., & Amin, R. M. (2011). Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. *Leading Issues in Information Warfare & Security Research*, 1, 80–107.
