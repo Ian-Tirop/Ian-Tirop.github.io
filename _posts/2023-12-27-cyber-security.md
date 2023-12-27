@@ -44,6 +44,19 @@ Nslookup Results
 - **Reverse DNS Lookup:** example.com
 - **Domain Information:** Registrar: ABC Registrar, Registered on Date
 
+### Cross-Tool corelation
+
+Correlating results from all three tools provided a comprehensive view of the network. Interesting findings and potential security concerns include:
+
+- **Mismatched Information:** Inconsistencies in IP addresses or domain information across tools may indicate a misconfiguration or a potential security risk.
+- **Unexpected Open Ports:** Ports identified by Traceroute that were not corroborated by Dig or Nslookup could be indicative of unauthorized services or devices.
+- **Domain and IP Address Alignment:** Ensure that the domain's IP address and associated records align correctly to prevent DNS-related attacks.
+
+### Mitigations
+
+NOTE: These are general strategies that can help reduce the risk at each stage. Actual mitigations may vary based on specific details. Based on the insights gained from the scanning activity, we'll discuss potential mitigations to address identified vulnerabilities. Mitigations may include recommendations for securing open ports, implementing firewall rules, or applying patches to eliminate potential points of exploitation. This step is essential for enhancing the overall security posture of the network.
+
+
 ## SolarWinds Breach Case Study
 
 Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
