@@ -311,7 +311,7 @@ Monitor network traffic for any unusual or suspicious activities.
 ## Honeypot
 Honypot Bitches
 
-Conclusion
+### Conclusion.
 This post has explored various aspects of cybersecurity, including scanning activities, a case study on the SolarWinds breach, DDoS attacks, and the impact of digitalization. Stay tuned for more insights into the dynamic and evolving field of cybersecurity!
 
 References
