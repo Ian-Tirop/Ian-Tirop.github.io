@@ -50,77 +50,226 @@ Let's dive into the SolarWinds breach case study based on the article by Temple-
 
 ### Cyber Kill Chain Analysis
 
+#### Phases Identification
+
+Let's analyze the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
+
 <table>
   <tr>
     <th>Cyber Kill Chain Phase</th>
-    <th>Identified</th>
+    <th>Description</th>
+    <th>Identification</th>
   </tr>
   <tr>
     <td>Reconnaissance</td>
+    <td>Initial information gathering about the target</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Weaponization</td>
+    <td>Creation of malicious payload or exploit</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Delivery</td>
+    <td>Transmission of malicious payload to the target</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Exploitation</td>
+    <td>Act of exploiting vulnerabilities to gain access</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Installation</td>
+    <td>Installation of malicious components on the target</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Command and Control</td>
+    <td>Establishment of communication for control</td>
     <td>Yes</td>
   </tr>
   <tr>
     <td>Actions on Objective</td>
+    <td>Execution of intended actions on the compromised system</td>
     <td>Yes</td>
   </tr>
 </table>
 
-Phases Identification
-Create a table that analyzes the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
+#### Mitigations
 
-Cyber Kill Chain Phase:	Identified
-1.Reconnaissance	        Yes
-2.Weaponization	          Yes
-3.Delivery	              Yes
-4.Exploitation	          Yes
-5.Installation	          Yes
-6.Command and Control	    Yes
-7.Actions on Objective	  Yes
+Now, let's create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
 
-Mitigations
+<table>
+  <tr>
+    <th>Cyber Kill Chain Phase</th>
+    <th>Description</th>
+    <th>Possible Mitigations</th>
+  </tr>
+  <tr>
+    <td>Reconnaissance</td>
+    <td>Initial information gathering about the target</td>
+    <td>
+      <ul>
+        <li>Security awareness training for employees</li>
+        <li>Network monitoring</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Weaponization</td>
+    <td>Creation of malicious payload or exploit</td>
+    <td>
+      <ul>
+        <li>Email filtering</li>
+        <li>Endpoint protection</li>
+        <li>Threat intelligence</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Delivery</td>
+    <td>Transmission of malicious payload to the target</td>
+    <td>
+      <ul>
+        <li>Email filtering</li>
+        <li>Web filtering</li>
+        <li>Endpoint protection</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Exploitation</td>
+    <td>Act of exploiting vulnerabilities to gain access</td>
+    <td>
+      <ul>
+        <li>Regular software patching</li>
+        <li>Endpoint protection</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Installation</td>
+    <td>Installation of malicious components on the target</td>
+    <td>
+      <ul>
+        <li>User privilege management</li>
+        <li>Endpoint protection</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Command and Control</td>
+    <td>Establishment of communication for control</td>
+    <td>
+      <ul>
+        <li>Network monitoring</li>
+        <li>Intrusion detection systems</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Actions on Objective</td>
+    <td>Execution of intended actions on the compromised system</td>
+    <td>
+      <ul>
+        <li>Incident response planning</li>
+        <li>Data backup</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Below is a list of possible mitigations for each phase.
+#### Tools and Reasons
 
-Cyber Kill Chain Phase:	Possible Mitigations
-1.Reconnaissance:	Security awareness training for employees, network monitoring.
-2.Weaponization:	Email filtering, endpoint protection, threat intelligence.
-3.Delivery:	Email filtering, web filtering, endpoint protection.
-4.Exploitation:	Regular software patching, endpoint protection.
-5.Installation:	User privilege management, endpoint protection.
-6.Command and Control:	Network monitoring, intrusion detection systems.
-7.Actions on Objective:	Incident response planning, data backup.
+Now, let's identify the tools to utilize in each phase and provide reasons for your answer.
 
-Tools and Reasons
+<table>
+  <tr>
+    <th>Cyber Kill Chain Phase</th>
+    <th>Description</th>
+    <th>Tools</th>
+    <th>Reasons for Usage</th>
+  </tr>
+  <tr>
+    <td>Reconnaissance</td>
+    <td>Initial information gathering about the target</td>
+    <td>
+      <ul>
+        <li>OSINT tools (e.g., Maltego)</li>
+      </ul>
+    </td>
+    <td>Gather information about the target</td>
+  </tr>
+  <tr>
+    <td>Weaponization</td>
+    <td>Creation of malicious payload or exploit</td>
+    <td>
+      <ul>
+        <li>Email security tools</li>
+        <li>Endpoint protection tools</li>
+      </ul>
+    </td>
+    <td>Filter malicious attachments and links; Detect and block malicious payloads</td>
+  </tr>
+  <tr>
+    <td>Delivery</td>
+    <td>Transmission of malicious payload to the target</td>
+    <td>
+      <ul>
+        <li>Email security tools</li>
+        <li>Web filtering</li>
+        <li>Endpoint protection tools</li>
+      </ul>
+    </td>
+    <td>Filter malicious emails and links; Block access to malicious websites; Detect and block malicious payloads</td>
+  </tr>
+  <tr>
+    <td>Exploitation</td>
+    <td>Act of exploiting vulnerabilities to gain access</td>
+    <td>
+      <ul>
+        <li>Vulnerability scanning tools (e.g., Nessus)</li>
+        <li>Endpoint protection tools</li>
+      </ul>
+    </td>
+    <td>Identify and patch vulnerabilities; Detect and block exploitation attempts</td>
+  </tr>
+  <tr>
+    <td>Installation</td>
+    <td>Installation of malicious components on the target</td>
+    <td>
+      <ul>
+        <li>Identity and access management tools</li>
+        <li>Endpoint protection tools</li>
+      </ul>
+    </td>
+    <td>Manage user privileges and access; Detect and block installation attempts</td>
+  </tr>
+  <tr>
+    <td>Command and Control</td>
+    <td>Establishment of communication for control</td>
+    <td>
+      <ul>
+        <li>Network intrusion detection systems</li>
+      </ul>
+    </td>
+    <td>Identify and block suspicious network activities</td>
+  </tr>
+  <tr>
+    <td>Actions on Objective</td>
+    <td>Execution of intended actions on the compromised system</td>
+    <td>
+      <ul>
+        <li>Incident response tools</li>
+        <li>Data backup tools</li>
+      </ul>
+    </td>
+    <td>Facilitate a timely and effective response; Ensure data recovery in case of a successful attack</td>
+  </tr>
+</table>
 
-The below tools were utilize in each phase following reasons for usage.
-
-1.Reconnaissance: OSINT tools (e.g., Maltego) for gathering information about the target.
-2.Weaponization: Email security tools to filter malicious attachments and links.
-3.Delivery: Endpoint protection tools to detect and block malicious payloads.
-4.Exploitation: Vulnerability scanning tools (e.g., Nessus) to identify and patch vulnerabilities.
-5.Installation: Identity and access management tools for user privilege management.
-6.Command and Control: Network intrusion detection systems to identify and block suspicious network activities.
-7.Actions on Objective: Incident response tools for timely and effective response.
 
 DDOS Attack
 In this section, we'll discuss Distributed Denial of Service (DDoS) attacks and explore mitigation strategies.
