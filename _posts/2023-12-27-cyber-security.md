@@ -49,6 +49,42 @@ Nslookup Results
 Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
 
 ### Cyber Kill Chain Analysis
+
+<table>
+  <tr>
+    <th>Cyber Kill Chain Phase</th>
+    <th>Identified</th>
+  </tr>
+  <tr>
+    <td>Reconnaissance</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Weaponization</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Delivery</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Exploitation</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Installation</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Command and Control</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Actions on Objective</td>
+    <td>Yes</td>
+  </tr>
+</table>
+
 Phases Identification
 Create a table that analyzes the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 
