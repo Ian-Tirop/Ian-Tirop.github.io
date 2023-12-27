@@ -1,47 +1,107 @@
 ---
 layout: post
-title: Scanning Activity
-subtitle: A Basic Scan Using Traceroute, Dig, and Nslookup
+title: Cyber Security Exploration
+subtitle: Understanding and Addressing Cyber Threats
 categories: cybersecurity
-tags: [scanning, tools, cybersecurity]
+tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecurity]
 ---
 
-## Introduction
+## Scanning Activity
 
-Welcome to a deep dive into the world of cybersecurity! In this post, we'll embark on a journey exploring a fundamental aspect of cybersecurity – scanning. Specifically, we'll conduct a basic scan using widely-used tools like Traceroute, Dig, and Nslookup. Scanning is a crucial step in identifying potential vulnerabilities and mapping network topologies, laying the foundation for robust cybersecurity practices.
+In this section, we'll perform a basic scanning activity using standard tools such as traceroute, dig, and nslookup. Scanning is a fundamental aspect of cybersecurity that helps identify potential vulnerabilities and map network topologies.
 
-## Background
+### Traceroute Test
 
-Scanning, in the context of cybersecurity, involves the systematic exploration of a network to discover open ports, services, and potential vulnerabilities. Traceroute, Dig, and Nslookup are essential tools that aid security professionals in understanding the structure of a network and identifying potential weak points.
+'''bash
+traceroute example.com
 
-## Analysis
+Traceroute Results
 
-In our scanning activity, we aim to gather information about the target network, uncovering key details that can be critical for a security assessment. The analysis will involve examining the results of each scan, identifying any anomalies or unexpected findings, and interpreting the implications for the security posture of the network.
+- **Hop Count:** X hops
+- **Latency:** Avg latency Y ms
+- **Open Ports:**
+  - Port 80: Open
+  - Port 443: Open
+Dig Test
+bash
 
-## Mitigations
+dig example.com
+Dig Results
 
-Based on the insights gained from the scanning activity, we'll discuss potential mitigations to address identified vulnerabilities. Mitigations may include recommendations for securing open ports, implementing firewall rules, or applying patches to eliminate potential points of exploitation. This step is essential for enhancing the overall security posture of the network.
+- **Name Server Records:** ns1.example.com, ns2.example.com
+- **MX Records:** mail.example.com
+- **Time-to-Live (TTL):** TTL for records Z seconds
+Nslookup Test
+bash
 
-## Tools
+nslookup example.com
+Nslookup Results
 
-### Traceroute
+- **IP Address Mapping:** X.X.X.X
+- **Reverse DNS Lookup:** example.com
+- **Domain Information:** Registrar: ABC Registrar, Registered on Date
+SolarWinds Breach Case Study
+Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
 
-Traceroute is a network diagnostic tool that visually maps the route and measures transit delays of packets across an Internet Protocol (IP) network. It helps in identifying the devices (routers) along the path from the source to the destination.
+Cyber Kill Chain Analysis
+Phases Identification
+Create a table that analyzes the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 
-### Dig
+Cyber Kill Chain Phase	Identified
+Reconnaissance	Yes
+Weaponization	Yes
+Delivery	Yes
+Exploitation	Yes
+Installation	Yes
+Command and Control	Yes
+Actions on Objective	Yes
+Mitigations
+Create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
 
-Dig (Domain Information Groper) is a command-line tool for querying DNS name servers. It is used to gather information about domain names, IP addresses, and DNS records, providing valuable insights into the domain's configuration.
+Cyber Kill Chain Phase	Possible Mitigations
+Reconnaissance	Security awareness training for employees, network monitoring
+Weaponization	Email filtering, endpoint protection, threat intelligence
+Delivery	Email filtering, web filtering, endpoint protection
+Exploitation	Regular software patching, endpoint protection
+Installation	User privilege management, endpoint protection
+Command and Control	Network monitoring, intrusion detection systems
+Actions on Objective	Incident response planning, data backup
+Tools and Reasons
+What tools would you utilize in each phase? Give reasons for your answer.
 
-### Nslookup
+Reconnaissance: OSINT tools (e.g., Maltego) for gathering information about the target.
+Weaponization: Email security tools to filter malicious attachments and links.
+Delivery: Endpoint protection tools to detect and block malicious payloads.
+Exploitation: Vulnerability scanning tools (e.g., Nessus) to identify and patch vulnerabilities.
+Installation: Identity and access management tools for user privilege management.
+Command and Control: Network intrusion detection systems to identify and block suspicious network activities.
+Actions on Objective: Incident response tools for timely and effective response.
+DDOS Attack
+In this section, we'll discuss Distributed Denial of Service (DDoS) attacks and explore mitigation strategies.
 
-Nslookup (Name Server Lookup) is another command-line tool for querying DNS servers. It is particularly useful for troubleshooting and obtaining detailed information about DNS records associated with a domain.
+Mitigations
+Mitigations for DDoS attacks may include:
 
-These tools, when used collectively, offer a comprehensive view of the target network and facilitate a thorough scanning activity.
+Traffic Filtering: Use firewalls and intrusion prevention systems to filter out malicious traffic.
+Content Delivery Network (CDN): Distribute content across multiple servers to handle traffic efficiently.
+Load Balancing: Distribute incoming network traffic across multiple servers to prevent overload on a single server.
+Rate Limiting: Implement rate-limiting measures to control the number of requests a server receives.
+Digitalization
+Let's explore the impact of digitalization on cybersecurity.
 
-## References
+Discussion
+Digitalization brings numerous benefits but also introduces new cybersecurity challenges. It is crucial to:
 
-1. D. Dittrich, "Traceroute," The Tcpip Guide, 2023. [Online]. Available: https://www.tcpipguide.com/free/t_Traceroute.htm.
+Implement robust encryption methods to protect sensitive data.
+Regularly update and patch software to address vulnerabilities.
+Foster a cybersecurity culture among employees through training and awareness programs.
+Monitor network traffic for any unusual or suspicious activities.
+Conclusion
+This post has explored various aspects of cybersecurity, including scanning activities, a case study on the SolarWinds breach, DDoS attacks, and the impact of digitalization. Stay tuned for more insights into the dynamic and evolving field of cybersecurity!
 
-2. ISC, "Introduction to Dig," Internet Systems Consortium, 2023. [Online]. Available: https://www.isc.org/using-dig/.
-
-3. Microsoft, "Nslookup," Microsoft Docs, 2023. [Online]. Available: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup.
+References
+D. Dittrich, "Traceroute," The Tcpip Guide, 2023. [Online]. Available: https://www.tcpipguide.com/free/t_Traceroute.htm.
+ISC, "Introduction to Dig," Internet Systems Consortium, 2023. [Online]. Available: https://www.isc.org/using-dig/.
+Microsoft, "Nslookup," Microsoft Docs, 2023. [Online]. Available: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup.
+Temple-Raston, D. (2021). [Title of the SolarWinds Article]. Retrieved from [URL].
+Hutchins, E. M., Cloppert, M. J., & Amin, R. M. (2011). Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. Leading Issues in Information Warfare & Security Research, 1, 80–107.
