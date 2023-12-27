@@ -22,52 +22,62 @@ Traceroute Results
 - **Open Ports:**
   - Port 80: Open
   - Port 443: Open
-Dig Test
-bash
+  - 
+###Dig Test
+
+'''bash
 
 dig example.com
+
 Dig Results
 
 - **Name Server Records:** ns1.example.com, ns2.example.com
 - **MX Records:** mail.example.com
 - **Time-to-Live (TTL):** TTL for records Z seconds
-Nslookup Test
-bash
+ 
+###Nslookup Test
+
+'''bash
 
 nslookup example.com
+
 Nslookup Results
 
 - **IP Address Mapping:** X.X.X.X
 - **Reverse DNS Lookup:** example.com
 - **Domain Information:** Registrar: ABC Registrar, Registered on Date
-SolarWinds Breach Case Study
+- 
+##SolarWinds Breach Case Study
 Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
 
 Cyber Kill Chain Analysis
 Phases Identification
 Create a table that analyzes the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 
-Cyber Kill Chain Phase	Identified
-Reconnaissance	Yes
-Weaponization	Yes
-Delivery	Yes
-Exploitation	Yes
-Installation	Yes
-Command and Control	Yes
-Actions on Objective	Yes
+Cyber Kill Chain Phase:	Identified
+Reconnaissance	        Yes
+Weaponization	          Yes
+Delivery	              Yes
+Exploitation	          Yes
+Installation	          Yes
+Command and Control	    Yes
+Actions on Objective	  Yes
+
 Mitigations
 Create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
 
-Cyber Kill Chain Phase	Possible Mitigations
-Reconnaissance	Security awareness training for employees, network monitoring
-Weaponization	Email filtering, endpoint protection, threat intelligence
-Delivery	Email filtering, web filtering, endpoint protection
-Exploitation	Regular software patching, endpoint protection
-Installation	User privilege management, endpoint protection
-Command and Control	Network monitoring, intrusion detection systems
-Actions on Objective	Incident response planning, data backup
+Cyber Kill Chain Phase:	Possible Mitigations
+Reconnaissance:	Security awareness training for employees, network monitoring
+Weaponization:	Email filtering, endpoint protection, threat intelligence
+Delivery:	Email filtering, web filtering, endpoint protection
+Exploitation:	Regular software patching, endpoint protection
+Installation:	User privilege management, endpoint protection
+Command and Control:	Network monitoring, intrusion detection systems
+Actions on Objective:	Incident response planning, data backup
+
 Tools and Reasons
-What tools would you utilize in each phase? Give reasons for your answer.
+
+The below tools were utilize in each phase following reasons for usage.
 
 Reconnaissance: OSINT tools (e.g., Maltego) for gathering information about the target.
 Weaponization: Email security tools to filter malicious attachments and links.
@@ -76,6 +86,7 @@ Exploitation: Vulnerability scanning tools (e.g., Nessus) to identify and patch 
 Installation: Identity and access management tools for user privilege management.
 Command and Control: Network intrusion detection systems to identify and block suspicious network activities.
 Actions on Objective: Incident response tools for timely and effective response.
+
 DDOS Attack
 In this section, we'll discuss Distributed Denial of Service (DDoS) attacks and explore mitigation strategies.
 
