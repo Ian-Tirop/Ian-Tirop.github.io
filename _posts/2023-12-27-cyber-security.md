@@ -22,9 +22,7 @@ Traceroute Results
   - Port 80: Open
   - Port 443: Open
  
-  - 
 ### Dig Test
-
 
 dig example.com
 
