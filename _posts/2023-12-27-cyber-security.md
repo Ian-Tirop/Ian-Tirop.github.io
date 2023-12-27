@@ -48,7 +48,7 @@ Nslookup Results
 
 Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
 
-Cyber Kill Chain Analysis
+### Cyber Kill Chain Analysis
 Phases Identification
 Create a table that analyzes the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
 
