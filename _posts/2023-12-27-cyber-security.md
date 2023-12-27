@@ -52,7 +52,7 @@ Let's dive into the SolarWinds breach case study based on the article by Temple-
 
 #### Phases Identification
 
-Let's analyze the SolarWinds exploit using the Cyber Kill Chain. Are there any phases that you cannot identify?
+Let's follow up how analysis the SolarWinds exploit using the Cyber Kill Chain was conducted with respect to the specific phases.
 
 <table>
   <tr>
@@ -99,7 +99,7 @@ Let's analyze the SolarWinds exploit using the Cyber Kill Chain. Are there any p
 
 #### Mitigations
 
-Now, let's create a list of possible mitigations for each phase. Are there any phases you cannot mitigate?
+Now, below is list of possible mitigations for each phase and what was achieved
 
 <table>
   <tr>
@@ -183,7 +183,7 @@ Now, let's create a list of possible mitigations for each phase. Are there any p
 
 #### Tools and Reasons
 
-Now, let's identify the tools to utilize in each phase and provide reasons for your answer.
+Now, let's identify the tools to utilize in each phase with reasons for each answer.
 
 <table>
   <tr>
