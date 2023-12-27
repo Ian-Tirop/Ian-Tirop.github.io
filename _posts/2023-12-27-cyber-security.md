@@ -44,7 +44,7 @@ Nslookup Results
 - **Reverse DNS Lookup:** example.com
 - **Domain Information:** Registrar: ABC Registrar, Registered on Date
 
-  ## SolarWinds Breach Case Study
+## SolarWinds Breach Case Study
 
 Let's dive into the SolarWinds breach case study based on the article by Temple-Raston (2021) and the Cyber Kill Chain model by Hutchins et al, 2011.
 
