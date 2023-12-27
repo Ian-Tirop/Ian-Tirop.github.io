@@ -284,7 +284,8 @@ Now, let's identify the tools to utilize in each phase with reasons for each ans
 </table>
 
 
-DDOS Attack
+## Distributed Denial of Service (DDoS)
+
 In this section, we'll discuss Distributed Denial of Service (DDoS) attacks and explore mitigation strategies.
 
 Mitigations
