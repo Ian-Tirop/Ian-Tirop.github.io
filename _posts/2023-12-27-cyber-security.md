@@ -306,7 +306,56 @@ Rate Limiting: Implement rate-limiting measures to control the number of request
 
 ## Honeypot
 
-Let's explore the impact of digitalization on cybersecurity.
+### Unveiling Winbox Protocal Vulnerabilities: A honeypot Case Study
+
+In this case study, we delve into building a honeypot for the Winbox protocol, a graphical user interface (GUI) application used to manage MikroTik RouterOS devices. The Winbox protocol has been a target for attackers, notably exploited by the infamous Meris botnet for large-scale DDoS attacks.
+
+### Winbox Exploits: Reading and Writing System Files
+
+Two vulnerabilities, allowing unauthorized reading and writing of crucial system files, are at the center of our analysis, with a focus on CVE-2018-14847. Attackers exploit this vulnerability to gain unauthorized access.
+
+### Exploiting CVE-2018-14847 Step by Step
+
+1. **Reading user.dat File:**
+   - Attackers initiate the process by sending an open-file request to read the user.dat file.
+   - The MikroTik device responds with the file size.
+   - SYS_CMD set to 4 instructs the device to read the specified bytes from the file.
+   - The device sends the content of the user.dat file, containing user credentials.
+     
+   ![Request to read user.dat file](figure_3.png)
+
+2. **SSH Access via "devel" Username:**
+   - Recovered credentials enable attackers to create a file, enabling SSH access with the "devel" username.
+   - The dissector captures the creation of the devel-login file.
+
+   ![Creation of devel-login file](figure_5.png)
+
+3. **Post-Exploitation Actions:**
+   - Once root shell access is acquired, attackers perform actions like enabling a VPN server and configuring scheduled tasks for 
+     persistence.
+
+### Setting Up a Winbox Honeypot
+
+To mimic real-world scenarios, we deploy a honeypot for the Winbox protocol. Cowrie, acting as an SSH proxy, forwards traffic to the actual honeypot. MikroTik honeypots can be managed and dynamically created using Cowrie.
+
+### Monitoring Winbox Protocol Interactions
+
+Capturing interactions between attackers and the victim via the Winbox protocol is essential. While Cowrie manages SSH interactions, we employ pywinbox to log Winbox protocol commands, aiding in understanding attacker actions.
+
+   ![CVE-2018-14847 exploitation detection](figure_6.png)
+
+### pywinbox: Decoding Winbox Protocol
+
+- **plaintext Protocol Management:** pywinbox decrypts Winbox packets, providing insights into attacker commands.
+- **CVE-2018-14847 Exploitation Detection:** Logs all commands, acting as a medium interaction honeypot and forwarding traffic for high interaction.
+
+## Conclusions
+
+Understanding protocol intricacies is paramount for deploying effective honeypots. Security teams must comprehend specific protocols to configure honeypots accurately, attracting attackers and capturing malicious activity. Legal and ethical considerations are crucial to ensure compliance and prevent unintended harm.
+
+Deploying honeypots provides valuable insights for proactive defense strategies, contributing to a more secure cyber landscape.
+
+
 
 ## Digitalization
 
