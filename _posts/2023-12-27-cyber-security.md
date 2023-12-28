@@ -313,8 +313,9 @@ In this experiment, we'll explore the process of conducting a Distributed Denial
   ![ddos2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/1df92385-5f56-424d-8a8d-dfc1ea2c7210)
 
    View the available options:
+
+   ![ddos3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/988df700-cdf0-4be3-b247-902050b1d33b)
    
- 
    
 3. **Step 3: Configuring the Attack**
    Specify the target IP address, for instance, Apple's website:
