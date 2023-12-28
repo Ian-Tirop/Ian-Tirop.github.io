@@ -322,7 +322,7 @@ Two vulnerabilities, allowing unauthorized reading and writing of crucial system
    - SYS_CMD set to 4 instructs the device to read the specified bytes from the file.
    - The device sends the content of the user.dat file, containing user credentials.
      
-   ![Request to read user.dat file](figure_3.png)
+   ![honeypot1](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/65e1589b-0c43-43a2-97bf-0688c01f6334)
 
 2. **SSH Access via "devel" Username:**
    - Recovered credentials enable attackers to create a file, enabling SSH access with the "devel" username.
