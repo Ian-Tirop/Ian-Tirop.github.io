@@ -49,9 +49,9 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
    - Implement IoT-enabled communication platforms.
    - Use IoT data for demand forecasting and supplier collaboration.
 
-# Selecting IoT Infrastructure
+## Selecting IoT Infrustructure
 
-## Project Greene Organix Greenhouses
+### Project Greene Organix Greenhouses
 
 **Objectives:**
 - Provide precise control of the greenhouse environment.
