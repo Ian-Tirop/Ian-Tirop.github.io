@@ -36,11 +36,9 @@ Dig Results
  
 ### Nslookup Test
 
-'''bash
-
 nslookup example.com
 
-Nslookup Results
+Nslookup Results i achieved on microsoft windows using CMD for'google.com
 
 - **IP Address Mapping:** X.X.X.X
 - **Reverse DNS Lookup:** example.com
