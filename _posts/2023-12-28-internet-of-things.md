@@ -229,12 +229,12 @@ The world of IoT offers endless possibilities, from elevators to greenhouses and
 
 ### References
 
-- [Best Elevator IoT Solutions: Customer Loyalty, Predictive Maintenance, and More](YourReferenceLink1)
-- [Greene Organix Greenhouses IoT Infrastructure Setup](YourReferenceLink2)
-- [Connecting Your World by IoT Seminar](YourReferenceLink3)
-- [Personal IoT Projects and Challenges](YourReferenceLink4)
+1.Deloitte. (2019). Digital Innovation: Creating the Utility of the Future. Deloitte Insights.
 
-[YourReferenceLink1]: #   "Link to Best Elevator IoT Solutions Reference"
-[YourReferenceLink2]: #   "Link to Greene Organix Greenhouses IoT Infrastructure Reference"
-[YourReferenceLink3]: #   "Link to Connecting Your World by IoT Seminar Reference"
-[YourReferenceLink4]: #   "Link to Personal IoT Projects and Challenges Reference"
+2.Johnson Service Group. (2021). The Results of an Understaffed IT Department. Johnson Service Group. 
+
+3.Bolton, P. (2023). Imports of Fossil Fuels from Russia. House of Commons Library. 
+
+4.Wei, L., Zhang, X., & Mahrin, M. N. (2019). Digitalization and its effects on organizational knowledge management. In Handbook of Research on Knowledge Management for Contemporary Business Environments (pp. 1-27). IGI Global. 
+
+5.Bennett, M. (2021). Johnson Service Group: The Results of an Understaffed IT Department. Johnson Service Group. 
