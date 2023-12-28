@@ -349,7 +349,7 @@ Capturing interactions between attackers and the victim via the Winbox protocol 
 - **plaintext Protocol Management:** pywinbox decrypts Winbox packets, providing insights into attacker commands.
 - **CVE-2018-14847 Exploitation Detection:** Logs all commands, acting as a medium interaction honeypot and forwarding traffic for high interaction.
 
-## Conclusions
+### Conclusions
 
 Understanding protocol intricacies is paramount for deploying effective honeypots. Security teams must comprehend specific protocols to configure honeypots accurately, attracting attackers and capturing malicious activity. Legal and ethical considerations are crucial to ensure compliance and prevent unintended harm.
 
