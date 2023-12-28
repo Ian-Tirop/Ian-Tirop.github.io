@@ -21,6 +21,8 @@ On Apple MAC OS X and Linux
 traceroute example.com
 
 Tracerout result i achieved on Microsoft windows Using CMD for'google.com'.
+
+![traceroutecmd](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/dbf80176-5cf6-4813-8e43-bf0ea7039676)
  
 ### Dig Test
 
