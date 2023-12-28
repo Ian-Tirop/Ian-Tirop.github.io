@@ -57,7 +57,7 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 - Provide precise control of the greenhouse environment.
 - Collect and analyze data to ensure optimal growing conditions.
 
-### IoT Infrastructure Setup
+### A) IoT Infrastructure Setup
 
 #### Data Collection and Control
 - Soil moisture sensors.
