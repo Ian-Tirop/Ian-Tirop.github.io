@@ -328,7 +328,7 @@ Two vulnerabilities, allowing unauthorized reading and writing of crucial system
    - Recovered credentials enable attackers to create a file, enabling SSH access with the "devel" username.
    - The dissector captures the creation of the devel-login file.
 
-   ![Creation of devel-login file](figure_5.png)
+   ![honeypot2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/fef54c90-e7f2-4d4a-94fb-b0ebf9e8f17c)
 
 3. **Post-Exploitation Actions:**
    - Once root shell access is acquired, attackers perform actions like enabling a VPN server and configuring scheduled tasks for 
