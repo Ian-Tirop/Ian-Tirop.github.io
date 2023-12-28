@@ -52,7 +52,7 @@ sample output view
 - **Reverse DNS Lookup:** example.com
 - **Domain Information:** Registrar: ABC Registrar, Registered on Date
 
-### Cross-Tool corelation
+### Cross-Tool correlation
 
 Correlating results from all three tools provided a comprehensive view of the network. Interesting findings and potential security concerns include:
 
