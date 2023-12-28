@@ -309,9 +309,7 @@ Rate Limiting: Implement rate-limiting measures to control the number of request
 Let's explore the impact of digitalization on cybersecurity.
 
 ## Digitalization
-# Cybersecurity in the Digital Economy: Challenges and Reflections
 
-## Fully Digital Enterprise and Cybersecurity Challenges
 
 A **fully digital enterprise**, defined by Wei et al. (2019), seamlessly integrates digital technology into every facet of its operations. While this transformation offers benefits like increased efficiency and innovation, it introduces new cybersecurity challenges, as outlined by Spremic and Simunic (2018).
 
@@ -325,7 +323,7 @@ A **fully digital enterprise**, defined by Wei et al. (2019), seamlessly integra
 
 4. **Security Awareness and Training:** Lack of security awareness can pose a significant vulnerability.
 
-## Cybersecurity Challenges for SMEs Transitioning to Digital
+### Cybersecurity Challenges for SMEs Transitioning to Digital
 
 Transitioning to a digital enterprise poses unique challenges for bricks-and-mortar SMEs.
 
@@ -349,7 +347,7 @@ Transitioning to a digital enterprise poses unique challenges for bricks-and-mor
 
 10. **Business Continuity:** Digital enterprises are susceptible to cyber incidents, making robust backup solutions crucial.
 
-## Reflections on Cybersecurity in Light of the 'Energy Crisis'
+### Reflections on Cybersecurity in Light of the 'Energy Crisis'
 
 While not explicitly addressing the energy crisis, the information underscores the importance of considering sustainability in the digital economy. Balancing the benefits of digital transformation with reducing energy consumption becomes crucial, especially in the context of the 2022 worldwide energy crisis.
 
