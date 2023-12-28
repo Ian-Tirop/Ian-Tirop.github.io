@@ -302,12 +302,12 @@ Metasploit is an open-source penetration testing framework that provides a platf
 
 In this experiment, we'll explore the process of conducting a Distributed Denial of Service (DDoS) attack using Metasploit. A DDoS attack floods a target server with a massive volume of requests, overwhelming its capacity and making it inaccessible to legitimate users.
 
-1. **Step1:Setting up Metasploit**
+ 1. **Step1:Setting up Metasploit**
    Ensure Metasploit is installed and accessible. You can open the Metasploit console by entering:
 
   ![ddos1](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/fd33a683-6eaa-4954-bbe2-6242d6d74ac5)
    
-2. **Step 2: Selecting the Attack Module**
+ 2. **Step 2: Selecting the Attack Module**
    In the Metasploit console, choose the auxiliary module for a TCP SYN flood attack:
    
   ![ddos2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/1df92385-5f56-424d-8a8d-dfc1ea2c7210)
@@ -317,7 +317,7 @@ In this experiment, we'll explore the process of conducting a Distributed Denial
    ![ddos3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/988df700-cdf0-4be3-b247-902050b1d33b)
    
    
-3. **Step 3: Configuring the Attack**
+ 3. **Step 3: Configuring the Attack**
    Specify the target IP address, for instance, Apple's website:
    
 ![ddos4](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/f08645dc-3c68-44fd-b3e7-7960eba06489)
@@ -328,7 +328,7 @@ In this experiment, we'll explore the process of conducting a Distributed Denial
    
    Note: If you encounter errors, consider the machine's compatibility and follow recommended configurations.
     
-4. **Step 4: Outcome**
+ 4. **Step 4: Outcome**
     While the experiment may encounter issues, a successful DDoS attack would not significantly impact the target website with only one 
     node generating requests. Additionally, the attacker's IP might get flagged temporarily.
 
