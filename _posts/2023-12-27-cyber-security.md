@@ -40,6 +40,10 @@ nslookup example.com
 
 Nslookup Results i achieved on microsoft windows using CMD for'google.com
 
+![nslookupcmd](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/1b925200-5cf1-4dcf-ba07-6f0d86e0bd11)
+
+sample output view
+
 - **IP Address Mapping:** X.X.X.X
 - **Reverse DNS Lookup:** example.com
 - **Domain Information:** Registrar: ABC Registrar, Registered on Date
