@@ -109,9 +109,7 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
    - Insights into designing solar power plants and PV solar test labs.
    - Focus on engaging with IoT communities and inspiring innovation.
 
-### References
 
-- Reihani, B., & Assadi, K. (2023). "Connecting Your World by IoT." Seminar conducted at Seminar room/Amfi on Wednesday, 5th December 2023.
 
 # My Experience with IoT
 
