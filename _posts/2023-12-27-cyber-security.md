@@ -28,6 +28,8 @@ Tracerout result i achieved on Microsoft windows Using CMD for'google.com'.
  
 ### Dig Test
 
+Dig (on Mac OS X and Linux) and nslookup (on Microsoft Windows) are the primary command-line tools for troubleshooting DNS issues.
+
 dig example.com
 
 Dig Results
