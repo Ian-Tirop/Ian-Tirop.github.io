@@ -456,6 +456,7 @@ This post has explored various aspects of cybersecurity, including scanning acti
 6. pitzner, L. (2003). Honeypots: Catching the Insider Threat. Network Security, 2003(7), 18-21. 
 
 7. Provos, N., Holz, T., & McAlerney, J. (2008). Virtual Honeypots: From Botnet Tracking to Intrusion Detection. Pearson Education.
+   
 8. Wei, L., Zhang, X., & Mahrin, M. N. (2019). Digitalization and its effects on organizational knowledge management. In Handbook of Research on Knowledge Management for Contemporary Business Environments (pp. 1-27). IGI Global. 
 
-9.Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442. 
+9. Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442. 
