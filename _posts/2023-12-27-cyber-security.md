@@ -342,7 +342,7 @@ To mimic real-world scenarios, we deploy a honeypot for the Winbox protocol. Cow
 
 Capturing interactions between attackers and the victim via the Winbox protocol is essential. While Cowrie manages SSH interactions, we employ pywinbox to log Winbox protocol commands, aiding in understanding attacker actions.
 
-   ![CVE-2018-14847 exploitation detection](figure_6.png)
+   ![honeypot3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/69f739bb-26a4-4c0d-a8d9-f090b39251c1)
 
 ### pywinbox: Decoding Winbox Protocol
 
