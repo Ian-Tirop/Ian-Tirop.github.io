@@ -52,3 +52,4 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 ![honeypot1](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/65e1589b-0c43-43a2-97bf-0688c01f6334)
 ![honeypot2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/fef54c90-e7f2-4d4a-94fb-b0ebf9e8f17c)
 ![honeypot3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/69f739bb-26a4-4c0d-a8d9-f090b39251c1)
+![smartcity](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/002ed711-73fa-4eba-b657-003e77a1a0fb)
