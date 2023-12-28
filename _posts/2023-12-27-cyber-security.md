@@ -445,18 +445,17 @@ This post has explored various aspects of cybersecurity, including scanning acti
 
 1. Allen, J., Christie, A., Fischbacher, M., Garrett, R., Gray, D., Henderson, R., ... & Winstanley, A. (2021). Security Engineering: A Guide to Building Dependable Distributed Systems. (No specific link available)
 
-2. Krebs, B. (2020). What We Know About the SolarWinds Hacking Campaign. Krebs on Security. Link
+2. Krebs, B. (2020). What We Know About the SolarWinds Hacking Campaign. Krebs on Security. 
 
-3. Goodin, D. (2020). Russian hackers hit US government using widespread supply chain attack. Ars Technica. Link
+3. Goodin, D. (2020). Russian hackers hit US government using widespread supply chain attack. Ars Technica. 
 
-4. Cimpanu, C. (2021). Record-breaking DDoS attack hits AWS customers. The Record. Link
+4. Cimpanu, C. (2021). Record-breaking DDoS attack hits AWS customers. The Record. 
 
-5. Akamai. (2021). Q2 2021 State of the Internet / Security Report. Akamai. Link
+5. Akamai. (2021). Q2 2021 State of the Internet / Security Report. Akamai. 
 
-6. pitzner, L. (2003). Honeypots: Catching the Insider Threat. Network Security, 2003(7), 18-21. (No specific link available)
+6. pitzner, L. (2003). Honeypots: Catching the Insider Threat. Network Security, 2003(7), 18-21. 
 
-7. Provos, N., Holz, T., & McAlerney, J. (2008). Virtual Honeypots: From Botnet Tracking to Intrusion Detection. Pearson Education. (No specific link available)
+7. Provos, N., Holz, T., & McAlerney, J. (2008). Virtual Honeypots: From Botnet Tracking to Intrusion Detection. Pearson Education.
+8. Wei, L., Zhang, X., & Mahrin, M. N. (2019). Digitalization and its effects on organizational knowledge management. In Handbook of Research on Knowledge Management for Contemporary Business Environments (pp. 1-27). IGI Global. 
 
-8. Wei, L., Zhang, X., & Mahrin, M. N. (2019). Digitalization and its effects on organizational knowledge management. In Handbook of Research on Knowledge Management for Contemporary Business Environments (pp. 1-27). IGI Global. (No specific link available)
-
-9.Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442. (No specific link available)
+9.Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442. 
