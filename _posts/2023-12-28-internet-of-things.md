@@ -3,7 +3,7 @@ layout: post
 title: IoT Exploration
 subtitle: Navigating the World of Internet of Things
 categories: IoT
-tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecurity]
+tags: [seminar-details, smart-elevator, smart-greenhouse, infrastructure-setup, experiences]
 ---
 
 ## Best Elevator - Using IoT to Solve Problems
@@ -23,7 +23,7 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 
 1. **Increase Customer Loyalty:**
    - Implement IoT-enabled customer feedback systems.
-   - Utilize data analytics to enhance customer experience.
+   - Utilize and leverage data analytics to enhance customer experience.
 
 2. **Improve Service Maintenance and Predictive Maintenance:**
    - Deploy IoT sensors for real-time monitoring of elevator health.
@@ -117,15 +117,15 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 
 In my daily life, I have integrated various IoT devices that add convenience and efficiency to my routines.
 
-### Projects Built
+### Project interests
 
 1. **Smart Home Automation:**
    - Deployed smart plugs and lighting systems.
    - Implemented voice-controlled assistants.
 
-2. **IoT Weather Station:**
-   - Designed a personal weather station using IoT sensors.
-   - Utilized cloud services for data storage and analysis.
+2. **IoT Assisted Study space:**
+   - Facilitated focused study sessions through ambient music with interrated IoT - music player.
+   - Integrated IoT-enabled bulbs and a temperature sensor.
 
 ### Most Challenging Project
 
