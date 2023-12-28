@@ -111,7 +111,7 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 
 
 
-# My Experience with IoT
+# My experience with IOT
 
 ## Introduction
 
