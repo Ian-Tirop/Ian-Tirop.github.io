@@ -93,7 +93,7 @@ tags: [seminar-details, smart-elevator, smart-greenhouse, infrastructure-setup, 
 ## IoT Seminar
 
 ### Connecting Your World by IoT 
-![Smart City](path/to/smart_city_image.jpg)
+![smartcity](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/002ed711-73fa-4eba-b657-003e77a1a0fb)
 *Image: A glimpse into the future of a smart city.*
 
 ### Seminar Overview:
