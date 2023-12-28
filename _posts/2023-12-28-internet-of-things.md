@@ -122,22 +122,22 @@ The seminar, "Connecting Your World by IoT," explores the transformative impact 
    - *Scenario:* Urban development should cater to the diverse needs of the population.
    - *IoT Solution:* Integrate IoT into urban planning processes to gather data on community needs. This can include citizen feedback platforms, IoT-enabled surveys, and social media analytics. By understanding diverse requirements, authorities can ensure inclusive and people-centric urban development.
 
-### Informed Decision-Making for Local Authorities
+6. **Informed Decision-Making for Local Authorities**
 
    - *Scenario:* Local authorities often face challenges in making informed decisions without real-time data.
    - *IoT Solution:* Implement a city-wide IoT data analytics platform. This platform collects and analyzes real-time data from various sources, providing local authorities with valuable insights for informed decision-making. Examples include data on traffic patterns, energy consumption, and public services usage.
 
-### Community Engagement and Feedback
+7. **Community Engagement and Feedback**
 
    - *Scenario:* Engaging with the community and understanding their needs is crucial for city development.
    - *IoT Solution:* Establish IoT-based community engagement platforms. Use smart applications and sensors to gather feedback on public services, events, and urban development projects. This fosters a collaborative approach, allowing citizens to actively participate in shaping their city.
 
-### Smart Street Lighting
+8. **Smart Street Lighting**
 
    - *Scenario:* Traditional street lighting consumes excessive energy and lacks adaptability.
    - *IoT Solution:* Deploy smart street lighting systems using IoT-connected LED lights. These lights can adjust brightness based on real-time conditions, reducing energy consumption. Motion sensors can further optimize lighting, ensuring efficient illumination only when needed.
 
-### Public Safety and Surveillance
+9. **Public Safety and Surveillance**
 
    - *Scenario:* Ensuring public safety is a constant concern for local authorities.
    - *IoT Solution:* Implement a city-wide surveillance system with IoT-enabled cameras and sensors. This system enhances public safety by detecting unusual activities, monitoring crowded areas, and providing real-time information to law enforcement agencies.
