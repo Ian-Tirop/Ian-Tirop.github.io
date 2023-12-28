@@ -19,11 +19,6 @@ tracert example.com
 On Apple MAC OS X and Linux
 
 traceroute example.com
-
-Traceroute Results i accuired using tracerout for google.com using CMD
-
-![Results](assets/images/banners/traceroutecmd.png)
-
  
 ### Dig Test
 
