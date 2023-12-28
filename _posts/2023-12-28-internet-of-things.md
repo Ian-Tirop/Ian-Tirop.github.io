@@ -6,9 +6,9 @@ categories: IoT
 tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecurity]
 ---
 
-# Best Elevator - Using IoT to Solve Problems
+## Best Elevator - Using IoT to Solve Problems
 
-## Project Best Elevator
+### Project Best Elevator
 
 **Objectives:**
 - Increase customer loyalty
@@ -49,7 +49,7 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
    - Implement IoT-enabled communication platforms.
    - Use IoT data for demand forecasting and supplier collaboration.
 
-# Selecting IoT Infrustructure
+## Selecting IoT Infrustructure
 
 ### Project Greene Organix Greenhouses - IoT infrustructure selection
 
@@ -90,9 +90,9 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 - Cost constraints and budget limitations
 - Scalability
 
-# IoT Seminar
+## IoT Seminar
 
-## Connecting Your World by IoT
+### Connecting Your World by IoT
 
 **Title:** Connecting Your World by IoT
 
@@ -111,9 +111,9 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 
 
 
-# My experience with IOT
+## My experience with IOT
 
-## Introduction
+### Introduction
 
 In my daily life, I have integrated various IoT devices that add convenience and efficiency to my routines.
 
@@ -139,11 +139,11 @@ In my daily life, I have integrated various IoT devices that add convenience and
 - **Custom Automation:** Automated responses based on events.
 - **Scalability:** Designed for easy integration of additional devices.
 
-## Limited Experience
+### Experience View
 
 If you are new to IoT or have limited experience, explore entry points like creating an IoT weather station, building a smart garden, or experimenting with art installations.
 
-# Conclusion
+## Conclusion
 
 The world of IoT offers endless possibilities, from elevators to greenhouses and personal projects. Whether solving business challenges or enhancing daily life, IoT continues to shape our connected future. Embrace the opportunities, learn from challenges, and contribute to the ever-growing field of Internet of Things.
 
