@@ -98,9 +98,9 @@ tags: [seminar-details, smart-elevator, smart-greenhouse, infrastructure-setup, 
 
 ### Seminar Overview:
 
-The seminar, "Connecting Your World by IoT," explores the transformative impact of Internet of Things (IoT) solutions in shaping smart cities. Our esteemed guest speakers will delve into real-world applications and case studies, demonstrating how IoT is revolutionizing urban living.
+The seminar, "Connecting Your World by IoT," explores the transformative impact of Internet of Things (IoT) solutions in shaping smart cities. we will delve into real-world applications and case studies, demonstrating how IoT is revolutionizing urban living.
 
-#### Agenda:
+#### IoT in smart cities: A Catalyst for public services:
 
 1. **Efficient Traffic Management:**
    - *Scenario:* Traffic congestion is a common urban woe leading to increased pollution and frustrated citizens.
