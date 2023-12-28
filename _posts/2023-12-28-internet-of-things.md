@@ -100,7 +100,7 @@ tags: [seminar-details, smart-elevator, smart-greenhouse, infrastructure-setup, 
 
 The seminar, "Connecting Your World by IoT," explores the transformative impact of Internet of Things (IoT) solutions in shaping smart cities. we will delve into real-world applications and case studies, demonstrating how IoT is revolutionizing urban living.
 
-#### IoT in smart cities: A Catalyst for public services:
+#### IoT in smart cities: A Catalyst for urban public services, urban transformation and enhancement:
 
 1. **Efficient Traffic Management:**
    - *Scenario:* Traffic congestion is a common urban woe leading to increased pollution and frustrated citizens.
@@ -141,6 +141,39 @@ The seminar, "Connecting Your World by IoT," explores the transformative impact 
 
    - *Scenario:* Ensuring public safety is a constant concern for local authorities.
    - *IoT Solution:* Implement a city-wide surveillance system with IoT-enabled cameras and sensors. This system enhances public safety by detecting unusual activities, monitoring crowded areas, and providing real-time information to law enforcement agencies.
+
+<h3>Advantages and Disadvantages of IoT in Smart Cities:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enhanced Efficiency and Resource Optimization</td>
+      <td>High Initial Implementation Costs</td>
+    </tr>
+    <tr>
+      <td>Real-time Data Insights for Informed Decision-Making</td>
+      <td>Security and Privacy Concerns</td>
+    </tr>
+    <tr>
+      <td>Improved Public Services and Infrastructure</td>
+      <td>Interoperability Challenges Between IoT Devices</td>
+    </tr>
+    <tr>
+      <td>Sustainable Urban Development</td>
+      <td>Dependency on Stable Internet Connectivity</td>
+    </tr>
+    <tr>
+      <td>Increased Citizen Engagement and Satisfaction</td>
+      <td>Potential Job Displacement due to Automation</td>
+    </tr>
+  </tbody>
+</table>     
 
 ### Conclusion:
 
