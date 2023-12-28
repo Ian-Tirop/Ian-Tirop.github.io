@@ -22,7 +22,7 @@ traceroute example.com
 
 Traceroute Results i accuired using tracerout for google.com using CMD
 
-![Alt Text](traceroutecmd.png)
+![Alt Text](assets/images/banners/traceroutecmd.png)
 
  
 ### Dig Test
