@@ -12,6 +12,8 @@ In this section, we'll perform a basic scanning activity using standard tools su
 
 ### Traceroute Test
 
+Traceroute (or tracert on Microsoft Windows systems) displays information about each “hop” a packet takes from your computer to the remote host.
+
 On Microsoft Windows:
 
 tracert example.com
