@@ -12,6 +12,12 @@ In this section, we'll perform a basic scanning activity using standard tools su
 
 ### Traceroute Test
 
+On Microsoft Windows:
+
+tracert example.com
+
+On Apple MAC OS X and Linux
+
 traceroute example.com
 
 Traceroute Results
