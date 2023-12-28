@@ -53,3 +53,8 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 ![honeypot2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/fef54c90-e7f2-4d4a-94fb-b0ebf9e8f17c)
 ![honeypot3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/69f739bb-26a4-4c0d-a8d9-f090b39251c1)
 ![smartcity](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/002ed711-73fa-4eba-b657-003e77a1a0fb)
+![ddos1](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/fd33a683-6eaa-4954-bbe2-6242d6d74ac5)
+![ddos2](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/1df92385-5f56-424d-8a8d-dfc1ea2c7210)
+![ddos3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/988df700-cdf0-4be3-b247-902050b1d33b)
+![ddos4](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/f08645dc-3c68-44fd-b3e7-7960eba06489)
+![ddos5](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/20089647-3c77-4426-aee0-4d6c8252339e)
