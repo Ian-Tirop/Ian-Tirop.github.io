@@ -19,6 +19,8 @@ tracert example.com
 On Apple MAC OS X and Linux
 
 traceroute example.com
+
+Tracerout result i achieved on Microsoft windows Using CMD for'google.com'.
  
 ### Dig Test
 
