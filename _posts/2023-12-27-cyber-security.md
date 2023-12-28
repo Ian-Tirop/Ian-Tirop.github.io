@@ -20,13 +20,10 @@ On Apple MAC OS X and Linux
 
 traceroute example.com
 
-Traceroute Results
+Traceroute Results i accuired using tracerout for google.com using CMD
 
-- **Hop Count:** X hops
-- **Latency:** Avg latency Y ms
-- **Open Ports:**
-  - Port 80: Open
-  - Port 443: Open
+<span class="image main"><img src="traceroutecmd.png" alt="" /></span>
+
  
 ### Dig Test
 
