@@ -51,23 +51,44 @@ tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecuri
 
 ## Selecting IoT Infrustructure
 
-### Project Greene Organix Greenhouses
+### Project Greene Organix Greenhouses - IoT infrustructure selection
 
 **Objectives:**
 - Provide precise control of the greenhouse environment.
+- Collect and analyze data to ensure optimal growing conditions.
 
 ### IoT Infrastructure Setup
 
-**A) IoT Infrastructure:**
-   - Data Collection and Control
-   - Local Connectivity
-   - Remote Connectivity
-   - Remote Data Ingestion, Analytics, and Backend Applications
-   - Operational Constraints
+#### Data Collection and Control
+- Soil moisture sensors.
+- Temperature and humidity sensors.
+- Automated irrigation systems.
 
-**B) Constraints:**
-   - Environmental factors (temperature, humidity).
-   - Connectivity challenges within the greenhouse.
+#### Local Connectivity
+- Wireless sensor networks.
+- Gateway devices for local data processing.
+
+#### Remote Connectivity
+- Cellular or Wi-Fi connectivity for remote access.
+- VPN for secure communication.
+
+#### Remote Data Ingestion, Analytics, and Backend Applications
+- Cloud-based platforms for data storage and analytics.
+- Integration with backend applications for automation.
+
+#### Operational Constraints
+- Limited power sources for remote locations.
+- Environmental factors affecting sensor accuracy.
+
+### B) Constraints
+
+#### Within Greenhouse Operation
+- Power constraints for IoT devices.
+- Environmental conditions affecting sensor reliability.
+- Limited network connectivity in remote areas.
+- Limited skilled workforce
+- Cost constraints and budget limitations
+- Scalability
 
 # IoT Seminar
 
