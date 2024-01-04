@@ -6,6 +6,8 @@ categories: IoT
 tags: [seminar-details, smart-elevator, smart-greenhouse, infrastructure-setup, experiences]
 ---
 
+![iotintro](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/df6268ae-2eda-445d-b84a-4d9fb9322328)
+
 ## Best Elevator - Using IoT to Solve Problems
 
 ### Project Best Elevator
