@@ -394,6 +394,7 @@ Deploying honeypots provides valuable insights for proactive defense strategies,
 
 ## Digitalization
 
+![digitalization](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/8f9acad8-fb72-4408-b8b8-4b989d1de65b)
 
 A **fully digital enterprise**, defined by Wei et al. (2019), seamlessly integrates digital technology into every facet of its operations. While this transformation offers benefits like increased efficiency and innovation, it introduces new cybersecurity challenges, as outlined by Spremic and Simunic (2018).
 
