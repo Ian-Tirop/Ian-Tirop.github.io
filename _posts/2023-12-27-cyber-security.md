@@ -5,6 +5,7 @@ subtitle: Understanding and Addressing Cyber Threats
 categories: cybersecurity
 tags: [scanning, case-study, cyber-kill-chain, ddos, digitalization, cybersecurity]
 ---
+![cyberintro](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/0ac29ffc-35b7-43ce-8eec-dcff8ab3152a)
 
 ## Scanning Activity
 
