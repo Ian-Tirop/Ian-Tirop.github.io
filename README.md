@@ -58,3 +58,6 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 ![ddos3](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/988df700-cdf0-4be3-b247-902050b1d33b)
 ![ddos4](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/f08645dc-3c68-44fd-b3e7-7960eba06489)
 ![ddos5](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/20089647-3c77-4426-aee0-4d6c8252339e)
+![cyberintro](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/0ac29ffc-35b7-43ce-8eec-dcff8ab3152a)
+![iotintro](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/df6268ae-2eda-445d-b84a-4d9fb9322328)
+![digitalization](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/8f9acad8-fb72-4408-b8b8-4b989d1de65b)
