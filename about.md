@@ -7,7 +7,7 @@ title: About
 
 Hello Everyone!
 
-I'm Ian Tirop, an undergraduate student pursuing Information Technology at the Eastern Mediterranean University in Cyprus. My academic journey is complemented by a passion for cutting-edge technologies, with a focus on Cybersecurity, IoT (Internet of Things), and Artificial Intelligence.
+I'm Ian Tirop, a Kenyan undergraduate student pursuing Information Technology at the Eastern Mediterranean University in Cyprus. My academic journey is complemented by a passion for cutting-edge technologies, with a focus on Cybersecurity, IoT (Internet of Things), and Artificial Intelligence.
 
 As a dedicated researcher, I delve into the fascinating realms where technology intersects with innovation. My curiosity has led me to explore the dynamic fields of Cybersecurity, IoT, and AI, allowing me to contribute to the evolving landscape of information technology.
 
