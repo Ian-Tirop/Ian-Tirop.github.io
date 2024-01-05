@@ -43,7 +43,10 @@ author: IAN TIROP
 copyright: "Eagle Zeal's Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my digital space! I am a recent graduate in Information Technology with a passion for innovation and problem-solving. Here, you will find a collection of my academic journey, hands-on projects, and insights gained throughout my studies. Aspiring to make a mark in the IT industry, I invite you to explore my portfolio, delve into my experiences, and get to know the aspiring IT professional behind the screen. Let us connect and explore the world of technology together!
+  Welcome to my digital space! I am a recent graduate in Information Technology with a passion for innovation and problem-solving.
+  Here, you will find a collection of my academic journey, hands-on projects, and insights gained throughout my studies.
+  Aspiring to make a mark in the IT industry, I invite you to explore my portfolio, delve into my experiences, and get to know the aspiring IT professional behind the screen.
+  Let us connect and explore the world of technology together!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
