@@ -47,6 +47,9 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
 [highlight-js]: https://github.com/highlightjs/highlight.js
+
+### Images
+
 ![traceroutecmd](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/dbf80176-5cf6-4813-8e43-bf0ea7039676)
 ![nslookupcmd](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/1b925200-5cf1-4dcf-ba07-6f0d86e0bd11)
 ![honeypot1](https://github.com/Ian-Tirop/Ian-Tirop.github.io/assets/84772512/65e1589b-0c43-43a2-97bf-0688c01f6334)
